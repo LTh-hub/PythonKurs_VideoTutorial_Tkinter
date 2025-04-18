@@ -49,14 +49,14 @@
 #
 #git status
 #git add .
-#git commit  -m "4.3) Creating Input Fields With Tkinter - Python Tkinter GUI #4 (entry.py)"
+#git commit  -m "4) Creating Input Fields With Tkinter - Python Tkinter GUI #4 (entry.py)"
 #git push
 #
 
 #
 #git status
 #git add .
-#git commit  -m "5.3) Build a Simple Calculator App - Python Tkinter GUI #5 (calculator.py)"
+#git commit  -m "5) Build a Simple Calculator App - Python Tkinter GUI #5 (calculator.py)"
 #git push
 #
 
@@ -64,7 +64,15 @@
 #
 #git status
 #git add .
-#git commit  -m "6.2) Continuing Build a Simple Calculator App - Python Tkinter GUI #6 (calculator.py)"
+#git commit  -m "6) Continuing Build a Simple Calculator App - Python Tkinter GUI #6 (calculator.py)"
+#git push
+#
+
+
+#
+#git status
+#git add .
+#git commit  -m "7) Finish Build a Simple Calculator App - Python Tkinter GUI #7 (calculator.py)"
 #git push
 #
 
@@ -72,10 +80,8 @@
 
 git status
 git add .
-git commit  -m "7.1) Finish Build a Simple Calculator App - Python Tkinter GUI #7 (calculator.py)"
+git commit  -m "8) Using Icons, Images, and Exit Buttons - Python Tkinter GUI #8 (images.py)"
 git push
-
-
 
 
 
