@@ -25,12 +25,16 @@
 #	Efter första videon, fil: hello.py
 #	Följande terminal kommandon
 #
+#git status
+#git add .
+#git commit  -m "1) Create Graphical User Interface with Python and Tkinter (hello.py)"
+#git push
 #
+
 git status
 git add .
-git commit  -m "1) Create Graphical User Interface with Python and Tkinter (hello.py)"
+git commit  -m "2) Positioning WithTkinter Grid System - Python Tkinter GUI (grid.py)"
 git push
-
 
 
 
