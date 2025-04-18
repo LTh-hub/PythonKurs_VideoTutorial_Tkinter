@@ -18,8 +18,7 @@ from tkinter import *
 root = Tk()
 root.title("Learn to Code at Codemy.com")
 root.geometry("500x350")
-
-
+root.iconbitmap('static/codemy105a_2.ico')      # Codemy's ikon
 
 
 
