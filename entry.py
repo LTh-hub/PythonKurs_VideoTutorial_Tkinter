@@ -18,6 +18,7 @@ root.geometry("500x350")
 
 e = Entry(root, width=50)
 e.pack(pady=10)
+e.insert(0, "Enter your name: ")
 
 
 def myClick():
@@ -31,12 +32,4 @@ myButton.pack()
 
 
 
-
-
-
 root.mainloop()
-
-
-
-
-
