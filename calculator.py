@@ -8,6 +8,7 @@
 # 3) Creating Buttons With Tkinter - Python Tkinter GUI #3
 # 4) Creating Input Fields With Tkinter - Python Tkinter GUI #4
 # 5) Build a Simple Calculator App - Python Tkinter GUI #5
+# 6) Continuing Build a Simple Calculator App - Python Tkinter GUI #6
 #
 #
 from tkinter import *
@@ -23,7 +24,9 @@ e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
 def button_click(number):
     #e.delete(0, END)
-    e.insert(0, number)
+    current = e.get()
+    e.delete(0, END)
+    e.insert(0, str(current) + str(number))
 
 
 
