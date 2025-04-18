@@ -46,10 +46,36 @@
 #
 
 
+#
+#git status
+#git add .
+#git commit  -m "4.3) Creating Input Fields With Tkinter - Python Tkinter GUI #4 (entry.py)"
+#git push
+#
+
+
 
 git status
 git add .
-git commit  -m "4) Creating Input Fields With Tkinter - Python Tkinter GUI #4 (entry.py)"
+git commit  -m "5.1) Build a Simple Calculator App - Python Tkinter GUI #5 (calculator.py)"
 git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
