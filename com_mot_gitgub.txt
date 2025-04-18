@@ -31,7 +31,6 @@
 #git push
 #
 
-
 #
 #git status
 #git add .
@@ -39,12 +38,18 @@
 #git push
 #
 
+#
+#git status
+#git add .
+#git commit  -m "3) Creating Buttons With Tkinter - Python Tkinter GUI (buttons.py)"
+#git push
+#
 
 
 
 git status
 git add .
-git commit  -m "3) Creating Buttons With Tkinter - Python Tkinter GUI (.py)"
+git commit  -m "4) Creating Input Fields With Tkinter - Python Tkinter GUI #4 (entry.py)"
 git push
 
 
