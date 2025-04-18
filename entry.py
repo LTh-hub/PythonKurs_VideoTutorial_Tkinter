@@ -16,16 +16,17 @@ root.title("Learn to Code")
 root.geometry("500x350")
 
 
-e = Entry(root, width=50, borderwidth=8)
+e = Entry(root, width=50)
 e.pack(pady=10)
 
 
 def myClick():
-    myLabel = Label(root, text="Look, I clicked a button!!")
+    hello = "Hello " + e.get()
+    myLabel = Label(root, text=hello)
     myLabel.pack()
 
 
-myButton = Button(root, text=" - Click me!", command=myClick, fg="blue", bg="white")
+myButton = Button(root, text="Ange ditt namn", command=myClick, fg="blue", bg="white")
 myButton.pack()
 
 
