@@ -14,13 +14,26 @@
 #
 #
 from tkinter import *
+from PIL import ImageTk, Image
+
 
 root = Tk()
 root.title("Learn to Code at Codemy.com")
-root.geometry("500x350")
+#root.geometry("500x350")
 root.iconbitmap('static/codemy105a_2.ico')      # Codemy's ikon
 
 
+my_img = ImageTk.PhotoImage(Image.open("static/Skärmbild_Lama.png"))
+my_label = Label(image=my_img)
+my_label.pack()
+
+
+
+
+
+
+button_quit = Button(root, text="Exit the program", command=root.quit)
+button_quit.pack(pady=10)
 
 
 
