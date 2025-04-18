@@ -61,10 +61,18 @@
 #
 
 
+#
+#git status
+#git add .
+#git commit  -m "6.2) Continuing Build a Simple Calculator App - Python Tkinter GUI #6 (calculator.py)"
+#git push
+#
+
+
 
 git status
 git add .
-git commit  -m "6.1) Continuing Build a Simple Calculator App - Python Tkinter GUI #6 (calculator.py)"
+git commit  -m "7.1) Finish Build a Simple Calculator App - Python Tkinter GUI #7 (calculator.py)"
 git push
 
 
