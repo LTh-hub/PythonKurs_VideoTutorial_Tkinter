@@ -1,0 +1,37 @@
+
+
+# 	18-april-2025
+# 
+# 	Nytt repository på GitHub
+# 	https://github.com/LTh-hub
+# 	https://github.com/LTh-hub/PythonKurs_VideoTutorial_Tkinter
+#
+
+
+# 	<Ctrl><c>  <Ctrl><v> på följande kod från GitHub
+# 	till terminalen på VS Code, för roten på projektet
+#
+#
+#echo "# PythonKurs_VideoTutorial_Tkinter" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git branch -M main
+#git remote add origin https://github.com/LTh-hub/PythonKurs_VideoTutorial_Tkinter.git
+#git push -u origin main
+#
+
+
+#	Efter första videon, fil: hello.py
+#	Följande terminal kommandon
+#
+#
+git status
+git add .
+git commit  -m "1) Create Graphical User Interface with Python and Tkinter (hello.py)"
+git push
+
+
+
+
+
